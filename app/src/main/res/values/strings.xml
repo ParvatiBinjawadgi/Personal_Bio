@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Personal_Bio</string>
+    <string name="title_activity">Personal_Bio</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="personal_information">PERSONAL INFORMATION</string>
+    <string name="fnamee">Fnamee:Parvati.Binjawadgi</string>
+    <string name="contact">Contact:987654321</string>
+    <string name="email">Email:parwathibinjawadgi@gmail.com</string>
+    <string name="github">GitHub:Parvati Binjawadgi</string>
+    <string name="facebook">FaceBook:Parvati Binjawadgi</string>
+    <string name="tab_label1">PERSONAL</string>
+    <string name="tab_label2">EDUCATION</string>
+    <string name="tab_label3">PROJECT</string>
+    <string name="action_settings">setting_action</string>
+    <string name="graduation">Graduation:B.L.D.E.A's V.P.Dr.P.G.Halakatti College of Engineering and Technology</string>
+    <string name="school_name">School Name:Basaveshwar New Primary School,Bagalkot</string>
+    <string name="college_name">College Name:Basaveshwar Polytechnic Autonomous College,Bgk</string>
+    <string name="training">Training:Halakatti Engi College,Bijapur</string>
+    <string name="project_name1">Project Name1:Employee Information System</string>
+    <string name="description">Description:Employee Information System describes the information of each and every employee info under his existence </string>
+    <string name="project_name2">Project Name2:District Information System</string>
+    <string name="description2">Description2:DIS includes the details of each and every district information after selecting the each district.</string>
+
+
+</resources>
